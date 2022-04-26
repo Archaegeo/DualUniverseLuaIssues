@@ -10,4 +10,4 @@ https://github.com/Archaegeo/DualUniverseLuaIssues/issues
 
 * Do not enter requests here for items that NQ has stated are intentionally not allowed.  
 
-* Items that NQ marks as being fed back to team will be closed but you can still see them.
+* Items that NQ marks as being fed back to team will be closed but you can still see them here: https://github.com/Archaegeo/DualUniverseLuaIssues/issues?q=is%3Aissue+is%3Aclosed
